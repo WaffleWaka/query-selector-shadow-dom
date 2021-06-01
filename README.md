@@ -1,4 +1,13 @@
+# Tampermonkey Fork
+This fork made specifically for Tampermonkey/GreaseMonkey implementation. 
+Please ![support](https://ko-fi.com/G2G221OBA) the original author,  ![Georgegriff](https://github.com/Georgegriff)
+
+
+
+
+
 [![Build Status](https://travis-ci.org/Georgegriff/query-selector-shadow-dom.svg?branch=main)](https://travis-ci.org/Georgegriff/query-selector-shadow-dom)  [![npm version](https://badge.fury.io/js/query-selector-shadow-dom.svg)](https://badge.fury.io/js/query-selector-shadow-dom) [![codecov](https://codecov.io/gh/Georgegriff/query-selector-shadow-dom/branch/main/graph/badge.svg)](https://codecov.io/gh/Georgegriff/query-selector-shadow-dom)
+
 # query-selector-shadow-dom
 querySelector that can pierce Shadow DOM roots without knowing the path through nested shadow roots. Useful for automated testing of Web Components e.g. with Selenium, Puppeteer.
 
